@@ -1,5 +1,11 @@
 # GTA VI Twitch CCU forecast — pooled release-day shape
 
+[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/lions0810/gta6-twitch-forecast/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/lions0810/gta6-twitch-forecast/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+
+An entry to make.fun's [GTA VI Twitch forecast bounty](https://make.fun/bounty/gta6-twitch-ccu-forecast-01).
+
 Entry for make.fun's `gta6-twitch-ccu-forecast-01`: forecast a launch day's
 Twitch category viewers for hours 2–24 of the UTC release day, at the five
 quantiles 0.05 / 0.25 / 0.5 / 0.75 / 0.95, from hour 1's print and the case's
